@@ -1,0 +1,38 @@
+body {
+    background-color: green;
+    font-family: Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.5;
+        color: #333;
+}
+.otp-container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: yellow;
+}
+
+h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin-bottom: 20px;
+    background-color: #016450;
+    color: #fdcfd5;
+}
+
+#otp-display {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#otp-validity {
+    font-size: 18px;
+    margin-top: 20px;
+}
